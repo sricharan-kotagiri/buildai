@@ -6,7 +6,7 @@ interface Props {
 export function ApiKeyInput({ value, onChange }: Props) {
   return (
     <div className="card">
-      <div className="card-label">Gemini API Key (Free)</div>
+      <div className="card-label">Groq API Key (Free)</div>
       <input
         type="password"
         value={value}
@@ -15,7 +15,7 @@ export function ApiKeyInput({ value, onChange }: Props) {
         autoComplete="off"
       />
       <div className="hint">
-        🔒 Never stored — sent directly to Google •{' '}
+        🔒 Never stored — sent directly to Groq •{' '}
         <a
           href="https://console.groq.com"
           target="_blank"

@@ -44,7 +44,7 @@ export default function App() {
       )}
 
       <div className="footer">
-        BuildAI • Powered by Claude Sonnet • 4-stage generation pipeline
+        BuildAI • Powered by SRI CHARAN • ree • 4-stage generation pipeline
       </div>
     </div>
   );

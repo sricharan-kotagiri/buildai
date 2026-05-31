@@ -20,7 +20,7 @@ export function Header() {
         border: '1px solid var(--border2)', borderRadius: 20,
         fontSize: 11, color: 'var(--cyan)', fontFamily: 'var(--mono)'
       }}>
-        ✦ Powered by Gemini 2.0 Flash • Free
+        ✦ Powered by Groq LLaMA 3.3 • Free
       </div>
     </div>
   );
